@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8797aa</color>
+    <color name="colorPrimaryDark">#d3d3d3</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="title_light_gray">#d3d3d3</color>
+    <color name="cta_button_color">@color/colorPrimary</color>
+
+    <color name="cal_btn_start_color1">#a0a0a0</color>
+    <color name="cal_btn_start_color2">#808080</color>
+    <color name="cal_btn_center_color">#202020</color>
+    <color name="cal_btn_end_color1">#101010</color>
+    <color name="cal_btn_end_color2">#000000</color>
+
+
+    <color name="calc_btn_start_color1">#8797aa</color>
+    <color name="calc_btn_start_color2">#eff4f9</color>
+    <color name="calc_btn_center_color">#d0d0d0</color>
+    <color name="calc_btn_end_color1">#e0e0e0</color>
+    <color name="calc_btn_end_color2">#f0f0f0</color>
+
+</resources>

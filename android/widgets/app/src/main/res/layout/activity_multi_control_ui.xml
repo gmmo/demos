@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wall_paper"
+    tools:context=".ControlsActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scrollbars="vertical" />
+
+    <LinearLayout
+        android:id="@+id/container_id"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/recycler_view_id"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/back_button_id"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:background="@drawable/action_btn_green"
+            android:text="@string/android_back"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/row_control_text_size_small" />
+
+    </LinearLayout>
+
+</RelativeLayout>

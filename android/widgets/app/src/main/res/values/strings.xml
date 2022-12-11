@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Controls Demo</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="android_controls">Android Controls</string>
+    <string name="test_activity">Activity</string>
+    <string name="android_back">Back</string>
+</resources>
