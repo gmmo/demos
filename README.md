@@ -1,4 +1,4 @@
-# demos
+# Demos
 
 ### Graphics and Physics:
 
@@ -43,3 +43,18 @@ _______________________________________________
 Code Sample (Kotlin)
 
 #### https://github.com/gmmo/demos/tree/main/kotlin
+
+_______________________________________________
+
+# Articles & Books
+
+## "Refractive Texture Mapping, Part One"
+https://www.gamedeveloper.com/programming/refractive-texture-mapping-part-one
+## "Refractive Texture Mapping, Part Two"
+https://www.gamedeveloper.com/programming/refractive-texture-mapping-part-two
+
+## "Designing Fast Cross-Platform SIMD Vector Libraries"
+https://www.gamedeveloper.com/programming/designing-fast-cross-platform-simd-vector-libraries
+
+## Real-Time Rendering, 3rd Edition Bibliography
+https://www.realtimerendering.com/refs3.html
