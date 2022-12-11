@@ -1,6 +1,7 @@
 # demos
 Demos of Graphics, Imaging and Android
-____________________________________
+_______________________________________
+
 
 Graphics and Physics:
 
@@ -24,7 +25,6 @@ Sobel Filter Demo (Python)
 
 https://youtu.be/twcngSqu4W8
 
-
 https://github.com/gmmo/demos/tree/main/image_processing/filters
 
 
@@ -33,3 +33,16 @@ Normalized Cross-Correlation (Matlab)
 https://youtu.be/9vYZ48EWpaA
 
 https://github.com/gmmo/demos/tree/main/image_processing/signal_correlation
+
+
+Android Widgets
+
+https://youtu.be/lHIynvYSHiA
+
+https://github.com/gmmo/demos/tree/main/android/widgets
+
+
+Kotlin Leetcode
+
+https://github.com/gmmo/demos/tree/main/kotlin
+
