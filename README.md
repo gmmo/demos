@@ -1,5 +1,5 @@
 # demos
-_______________________________________________
+
 ### Graphics and Physics:
 
 #### Cloth Simulation
@@ -11,37 +11,35 @@ https://youtu.be/WMkyGKc7FUc
 https://github.com/gmmo/demos/tree/main/graphics/softbody
 _______________________________________________
 
-Image Processing:
+### Image Processing
 
-Median Filter Demo
+#### Median Filter Demo
 
 https://youtu.be/4E9BkJpp-hs
 
-Sobel Filter Demo
+#### Sobel Filter Demo
 
 https://youtu.be/twcngSqu4W8
 
-Normalized Cross-Correlation (Matlab)
+#### Normalized Cross-Correlation (Matlab)
 
 https://youtu.be/9vYZ48EWpaA
 
-* Code Sample (Python & Matlab)
+#### Code Sample (Python & Matlab)
 
 https://github.com/gmmo/demos/tree/main/image_processing/filters
 https://github.com/gmmo/demos/tree/main/image_processing/signal_correlation
 _______________________________________________
-Android Widgets
+### Android Controls
 
 https://youtu.be/lHIynvYSHiA
 
-Code Sample (Java)
+#### Code Sample (Java)
 
 https://github.com/gmmo/demos/tree/main/android/widgets
 _______________________________________________
-Leetcode
+### Leetcode
 
 Code Sample (Kotlin)
 
-https://github.com/gmmo/demos/tree/main/kotlin
-
-
+#### https://github.com/gmmo/demos/tree/main/kotlin
