@@ -1,6 +1,6 @@
 # demos
-Demos of Graphics, Imaging and Android
-_______________________________________
+Demos of Graphics, Image Processing and Android
+_______________________________________________
 
 
 Graphics and Physics:
