@@ -1,14 +1,13 @@
 # demos
-Demos of Graphics, Image Processing and Android
 _______________________________________________
-# Graphics and Physics:
+### Graphics and Physics:
 
-## Cloth Simulation
+#### Cloth Simulation
 
 https://youtu.be/erLT9HsllJU
 https://youtu.be/WMkyGKc7FUc
 
-## Code Sample (C++, CX)
+#### Code Sample (C++, CX)
 https://github.com/gmmo/demos/tree/main/graphics/softbody
 _______________________________________________
 
